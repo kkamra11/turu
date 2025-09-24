@@ -17,7 +17,7 @@ This repository is a collection of my C programming practice codes. It covers ba
 ## Learning Resources
 I learned from the following YouTube channels:
 
-1. **[Apna Colleg](https://www.youtube.com/watch?v=irqbmMNs2Bo&t=5s)
+1. **[Apna Colleg](https://www.youtube.com/watch?v=irqbmMNs2Bo&t=5s)**
    - *Author: Shradha Khapra*
   
 ---
